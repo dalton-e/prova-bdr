@@ -10,5 +10,5 @@ CREATE  TABLE IF NOT EXISTS `prova`.`tarefas` (
 ) ENGINE = InnoDB;
 
 INSERT INTO `tarefas` (`id`, `titulo`, `descricao`, `prioridade`) VALUES
-(1, 'Instalar impressora', 'Favor instalar impressora no nono andar', 2),
+(1, 'Instalar impressora', 'Favor instalar a impressora no nono andar', 2),
 (2, 'Formatar PC', 'É preciso formatar o PC da sala de reunião', 1);
